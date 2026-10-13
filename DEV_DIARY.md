@@ -15,3 +15,11 @@
 - **Next Steps / Notes**:
   - Push repository to GitHub account (`PrathameshSJ/e-plantShopping`).
   - Provide direct file URLs for submission.
+
+## 2026-10-14 00:55
+- **Task**: Clarified distinction between GitHub file URLs and GitHub Pages live deployment URLs.
+- **Actions Taken**:
+  - Deployed static bundle to `gh-pages` branch using `npm run deploy`.
+  - Verified active GitHub Pages site (`https://prathameshsj.github.io/e-plantShopping/`).
+  - Confirmed that Option 1 (AI-Graded evaluation) specifically requires direct GitHub source file URLs (`/blob/main/...`) for code analysis, while GitHub Pages provides the live web demo.
+- **Notes**: Both the direct source file URLs and the live GitHub Pages URL are now ready and available.
